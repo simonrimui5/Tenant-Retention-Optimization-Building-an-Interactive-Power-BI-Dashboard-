@@ -25,6 +25,7 @@
 - [Trend Lines](#trend-lines)
 - [DrillThrough Buttons](#drill-through-buttons)
 - [Slicers](#slicers)
+- [Data Model](#data-model)
 - [Tenant Retention Dashboard](#tenant-retention-dashboard)
 - [Lease Term Details](#lease-term-details)
 - [Satisfaction Score Details](#satisfaction-score-details)
@@ -281,6 +282,9 @@ Filter data for specific months.
 Toggle between years for year-over-year analysis.
 ### Property Type: 
 Analyze specific property types.
+## Data Model
+![image](https://github.com/user-attachments/assets/a8a70f41-7805-468a-b924-aa9cf40f5f6c)
+
 ## Tenant Retention Dashboard
 ![Screenshot 2024-11-29 172711](https://github.com/user-attachments/assets/e683e914-c879-4c6e-9d0c-14927831552b)
 
